@@ -1,11 +1,11 @@
-import { watchFile, unwatchFile } from 'fs'
+importar { watchFile , unwatchFile } desde  'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['14509774891', '👑 Shadow - King 👑', true],
-  ['593968585383'],
-  ['593993684821']
+  ['', '👑 Shadow - King 👑', true],
+  [''],
+  ['']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
